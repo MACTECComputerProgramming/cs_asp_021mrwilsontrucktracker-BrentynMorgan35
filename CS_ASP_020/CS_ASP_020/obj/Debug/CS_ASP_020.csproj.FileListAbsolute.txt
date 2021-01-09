@@ -1,0 +1,45 @@
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.exe.config
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.exe
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.pdb
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csprojAssemblyReference.cache
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\MainWindow.g.cs
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\App.g.cs
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020_MarkupCompile.cache
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020_MarkupCompile.lref
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\MainWindow.baml
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.g.resources
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.Properties.Resources.resources
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csproj.GenerateResource.cache
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csproj.CoreCompileInputs.cache
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.exe
+C:\Users\brent\Documents\Brentyns work 2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.pdb
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.exe.config
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.exe
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.pdb
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csprojAssemblyReference.cache
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\MainWindow.g.cs
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\App.g.cs
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020_MarkupCompile.cache
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020_MarkupCompile.lref
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\MainWindow.baml
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.g.resources
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.Properties.Resources.resources
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csproj.GenerateResource.cache
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csproj.CoreCompileInputs.cache
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.exe
+C:\Users\maconrm180\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.pdb
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.exe.config
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.exe
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\bin\Debug\CS_ASP_020.pdb
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csprojAssemblyReference.cache
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\MainWindow.g.cs
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\App.g.cs
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020_MarkupCompile.cache
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020_MarkupCompile.lref
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\MainWindow.baml
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.g.resources
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.Properties.Resources.resources
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csproj.GenerateResource.cache
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.csproj.CoreCompileInputs.cache
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.exe
+C:\Users\brent\Documents\GitHub\BrentynsWork-2021\CS_ASP_020\CS_ASP_020\obj\Debug\CS_ASP_020.pdb
